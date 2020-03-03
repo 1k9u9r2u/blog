@@ -39,7 +39,8 @@ body{
   }
   .contents{
     margin: 30px auto 0;
-    background-color: #fff;
+    background-color: #8EC5FC;
+    background-image: linear-gradient(45deg, #8EC5FC 0%, #E0C3FC 19%, #d0a1a1 39%, #ffffff 60%, #ffffff 80%, #5c4545 100%);
     height: 600px;
     width: 70%;
     overflow: scroll;
@@ -50,9 +51,6 @@ body{
       &__left{
         padding-right: 20px;
         &--image{
-          height: 55px;
-          width: 55px;
-          border: solid 1px;
         }
       }
       &__right{
