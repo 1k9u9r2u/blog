@@ -1,24 +1,8 @@
-# README
+## App URL
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### **https://guarded-temple-00608.herokuapp.com/users/2**
 
-Things you may want to cover:
 
-* Ruby version
+<p>アプリ名・ブログアプリ</p>
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<p>機能・ログイン、ログアウト、新規投稿、編集、削除</p>
