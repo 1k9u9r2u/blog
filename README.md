@@ -9,3 +9,10 @@
 
 <p>開発環境</p>
 html css/ruby on rails
+
+テスト用アカウント等
+メールアドレス: sample@gmail.com
+ユーザー名:山田太郎
+パスワード: buyer123
+
+
