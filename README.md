@@ -14,5 +14,22 @@ html css/ruby on rails
 メールアドレス: sample@gmail.com
 ユーザー名:山田太郎
 パスワード: buyer123
+https://gyazo.com/de3f1bb5ca6855bb7782e6e97223e44f
+
+## usersテーブル
+|Column|Type|Options|
+|------|----|-------|
+|email|string|null: false|
+|password|string|null: false|
+|nickname|string|null: false|
+### Association
+- has_many :posts
 
 
+## postsテーブル
+|Column|Type|Options|
+|------|----|-------|
+|text|text|null: false|
+|user_id|integer|null: false, foreign_key: true|
+### Association
+- belongs_to :user
